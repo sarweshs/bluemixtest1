@@ -12,3 +12,6 @@ The Node.js Starter demonstrates a simple, reusable Node.js web application base
 6. Access the running app in a browser at http://localhost:6001
 
 [Install Node.js]: https://nodejs.org/en/download/
+=======
+# bluemixtest1
+6675906472ba2a7d8b7147d15f4a6e7b7bbc9fed
